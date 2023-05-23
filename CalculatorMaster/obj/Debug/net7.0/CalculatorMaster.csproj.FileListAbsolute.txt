@@ -1,0 +1,15 @@
+C:\Users\ygor.peixoto\Desktop\C# Fundamentals\CalculatorMaster\bin\Debug\net7.0\CalculatorMaster.exe
+C:\Users\ygor.peixoto\Desktop\C# Fundamentals\CalculatorMaster\bin\Debug\net7.0\CalculatorMaster.deps.json
+C:\Users\ygor.peixoto\Desktop\C# Fundamentals\CalculatorMaster\bin\Debug\net7.0\CalculatorMaster.runtimeconfig.json
+C:\Users\ygor.peixoto\Desktop\C# Fundamentals\CalculatorMaster\bin\Debug\net7.0\CalculatorMaster.dll
+C:\Users\ygor.peixoto\Desktop\C# Fundamentals\CalculatorMaster\bin\Debug\net7.0\CalculatorMaster.pdb
+C:\Users\ygor.peixoto\Desktop\C# Fundamentals\CalculatorMaster\obj\Debug\net7.0\CalculatorMaster.csproj.AssemblyReference.cache
+C:\Users\ygor.peixoto\Desktop\C# Fundamentals\CalculatorMaster\obj\Debug\net7.0\CalculatorMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygor.peixoto\Desktop\C# Fundamentals\CalculatorMaster\obj\Debug\net7.0\CalculatorMaster.AssemblyInfoInputs.cache
+C:\Users\ygor.peixoto\Desktop\C# Fundamentals\CalculatorMaster\obj\Debug\net7.0\CalculatorMaster.AssemblyInfo.cs
+C:\Users\ygor.peixoto\Desktop\C# Fundamentals\CalculatorMaster\obj\Debug\net7.0\CalculatorMaster.csproj.CoreCompileInputs.cache
+C:\Users\ygor.peixoto\Desktop\C# Fundamentals\CalculatorMaster\obj\Debug\net7.0\CalculatorMaster.dll
+C:\Users\ygor.peixoto\Desktop\C# Fundamentals\CalculatorMaster\obj\Debug\net7.0\refint\CalculatorMaster.dll
+C:\Users\ygor.peixoto\Desktop\C# Fundamentals\CalculatorMaster\obj\Debug\net7.0\CalculatorMaster.pdb
+C:\Users\ygor.peixoto\Desktop\C# Fundamentals\CalculatorMaster\obj\Debug\net7.0\CalculatorMaster.genruntimeconfig.cache
+C:\Users\ygor.peixoto\Desktop\C# Fundamentals\CalculatorMaster\obj\Debug\net7.0\ref\CalculatorMaster.dll
